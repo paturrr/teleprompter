@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Slide 01: Pengantar Fitur Sort By Katalog",
+    "duration": "20 Detik",
+    "cue": "Tatap ramah Asesor, jelaskan tujuan penambahan fitur pengurutan armada di katalog.",
+    "visual": "Katalog Armada - Fitur Sort By (Harga, Jam Terbang, Nama Unit).",
+    "script": "Teks disini"
+  },
+  {
+    "id": 2,
+    "title": "Slide 02: Langkah 1 - Pembacaan Parameter URL (params.sort)",
+    "duration": "25 Detik",
+    "cue": "Tunjuk pembacaan params.sort di file app/(app)/katalog/page.tsx.",
+    "visual": "app/(app)/katalog/page.tsx: const sort = ambilTeks(params.sort);",
+    "script": "Teks disini"
+  }
+]
